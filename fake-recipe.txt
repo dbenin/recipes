@@ -1,0 +1,11 @@
+Ingredients:
+ - ingredient 1
+ - ingredient 2
+ - ingredient 3
+ - ingredient 4
+
+Directions:
+ 1. direction 1.
+ 2. direction 2.
+ 3. direction 3.
+ 4. direction 4.
